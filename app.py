@@ -45,6 +45,7 @@ if st.button("🔮 Predict iPhone Price"):
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("""
     <p style='text-align: center; color: gray;'>
-        Built with ❤️ by <b>Mahek Bhathawala</b> | Streamlit + ML
+        Built with ❤️ by <b>Roshan Patil</b> | Streamlit + ML
     </p>
 """, unsafe_allow_html=True)
+
