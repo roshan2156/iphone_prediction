@@ -4,7 +4,7 @@ A simple and elegant Streamlit web application to **predict the resale price of 
 
 👉 **[Live App](https://your-streamlit-app-url-here.streamlit.app)**  
 🧠 **Machine Learning Model:** Trained using scikit-learn  
-💼 **Author:** Mahek Bhathawala
+💼 **Author:** Roshan Patil
 
 ---
 
@@ -14,5 +14,6 @@ A simple and elegant Streamlit web application to **predict the resale price of 
 - 📊 Inputs via sliders and dropdowns for intuitive interaction
 - 📈 Model trained on historical iPhone resale data
 - ✅ Clean, responsive Streamlit UI
+
 
 
